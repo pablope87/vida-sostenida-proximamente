@@ -8,6 +8,8 @@ body{
     background-color: #004740;
 }
 
+
+
 #video-back {
     position: fixed;
     right: 0;
@@ -15,8 +17,6 @@ body{
     min-width: 100%;
     min-height: 100%;
     opacity: 60%;
-    
-    
 }
 
 .logo img{
